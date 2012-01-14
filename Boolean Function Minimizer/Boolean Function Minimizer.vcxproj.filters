@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
     </Filter>
+    <Filter Include="Documentation">
+      <UniqueIdentifier>{3a9ef905-112d-4f95-a771-fc5ab88945f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="high_level.c">
@@ -41,5 +44,16 @@
     <ClInclude Include="medium_level.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Implemantation and Efficiency Decisions.doc">
+      <Filter>Documentation</Filter>
+    </None>
+    <None Include="Read me first.doc">
+      <Filter>Documentation</Filter>
+    </None>
+    <None Include="Test input.xls">
+      <Filter>Documentation</Filter>
+    </None>
   </ItemGroup>
 </Project>

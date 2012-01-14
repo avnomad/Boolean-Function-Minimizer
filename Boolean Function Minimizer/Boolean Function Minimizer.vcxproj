@@ -85,6 +85,11 @@
     <ClInclude Include="low_level.h" />
     <ClInclude Include="medium_level.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Implemantation and Efficiency Decisions.doc" />
+    <None Include="Read me first.doc" />
+    <None Include="Test input.xls" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
