@@ -2,3 +2,7 @@ syntax: regexp
 Debug/*
 Release/*
 ipch/*
+syntax: glob
+Boolean Function Minimizer.opensdf
+Boolean Function Minimizer.sdf
+Boolean Function Minimizer.suo
